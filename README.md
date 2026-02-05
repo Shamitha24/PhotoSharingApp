@@ -4,7 +4,7 @@ A full-stack web application that allows users to create accounts, log in, and s
 
 Features
 
-- User Authentication** (Sign up, Log in, Logout)  
+- User Authentication (Sign up, Log in, Logout)  
 - Photo Uploading & Sharing
 - Customizable Privacy Settings 
 - Like & Comment System
